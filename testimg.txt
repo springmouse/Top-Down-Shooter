@@ -1,9 +1,7 @@
-123
-4156
-98
-123
-123
-123b hnj
-bhbh
-kjh
-bkbh
+code
+{
+
+if(cat == FALSE)
+	dog
+
+}
