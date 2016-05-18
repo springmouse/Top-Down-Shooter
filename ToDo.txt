@@ -1,5 +1,4 @@
 Art:
-
 	character
 
 	monsters:
@@ -12,6 +11,22 @@ Art:
 		-machine gun
 
 	map
+
+
+sound:
+	character:
+		-walking
+		-shooting
+		-dieing
+
+	monsters:
+		-walking
+		-attacking
+		-dieing
+
+	power ups/drops pickup
+	background music
+
 
 code to do:
 
