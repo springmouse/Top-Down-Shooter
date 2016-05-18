@@ -1,7 +1,0 @@
-code
-{
-
-if(cat == FALSE)
-	dog
-
-}

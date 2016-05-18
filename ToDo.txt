@@ -1,0 +1,33 @@
+Art:
+
+	character
+
+	monsters:
+		-basic
+		-advanced
+		-boss
+
+	Weapodrops:
+		-shotgun
+		-machine gun
+
+	map
+
+code to do:
+
+	character:
+		-moveing
+		-looking at cursor
+		-attack
+		-health
+	
+	monsters:
+		-spawning off map
+		-follow player
+		-attack player
+		-drops power ups on death
+
+	spawn waves
+
+	power ups/drops: eg shotgun
+	
